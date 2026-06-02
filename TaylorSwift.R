@@ -1,5 +1,6 @@
 #R does not care about whitespace
-
+#There are two data strcutures in R: vectors, which represent a column (in other words, only one data type), and data frames, which represent tables with both rows and columns.
+#Ctrl + Enter runs a line of code in RStudio, can also click the run button or highlight a portion of text and run or click ctrl+enter.
 library(dplyr)
 library(randomForest)
 
